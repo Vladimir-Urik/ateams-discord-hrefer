@@ -1,2 +1,2 @@
-# ateams-discord-hrefer
- Hrefer na náš officiálny discord server
+# ateams Discord link
+ Linker na náš officiálny discord server
